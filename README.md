@@ -1,2 +1,5 @@
 # Tic-Tac-Toe
-Two Desperados Demo
+
+Android Tic-Tac-Toe game built in Unity 6.
+
+This project was developed by **Bojan Bozovic** as a technical demonstration / developer assignment for **Two Desperados**.
