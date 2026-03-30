@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: b149e228034a13c40a00ac530641c012
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3856882121939617982
+    second: tic_tac_toe_logo_0
+  - first:
+      213: 7023767103824859249
+    second: tic_tac_toe_logo_1
+  - first:
+      213: 2653021341941080587
+    second: tic_tac_toe_logo_2
+  - first:
+      213: 7153084963993863978
+    second: tic_tac_toe_logo_3
+  - first:
+      213: 6800183259622598721
+    second: tic_tac_toe_logo_4
+  - first:
+      213: 9089620863515057617
+    second: tic_tac_toe_logo_5
+  - first:
+      213: -9042172143429760666
+    second: tic_tac_toe_logo_6
+  - first:
+      213: 1259332309730786194
+    second: tic_tac_toe_logo_7
+  - first:
+      213: -8087144462618541100
+    second: tic_tac_toe_logo_8
+  - first:
+      213: -5070919805705057477
+    second: tic_tac_toe_logo_9
+  - first:
+      213: 3569921341851643019
+    second: tic_tac_toe_logo_10
+  - first:
+      213: 3860397577151364592
+    second: tic_tac_toe_logo_11
+  - first:
+      213: -6789137068640219607
+    second: tic_tac_toe_logo_12
+  - first:
+      213: 380145828469938559
+    second: tic_tac_toe_logo_13
+  - first:
+      213: 2534600931425083228
+    second: tic_tac_toe_logo_14
+  - first:
+      213: -955777632521464304
+    second: tic_tac_toe_logo_15
+  - first:
+      213: -4565768195883042333
+    second: tic_tac_toe_logo_16
+  - first:
+      213: 8282510889339420151
+    second: tic_tac_toe_logo_17
+  - first:
+      213: -4806529349650272892
+    second: tic_tac_toe_logo_18
+  - first:
+      213: -8343473314437890675
+    second: tic_tac_toe_logo_19
+  - first:
+      213: -1451733984225837936
+    second: tic_tac_toe_logo_20
+  - first:
+      213: -8193975779413578170
+    second: tic_tac_toe_logo_21
+  - first:
+      213: -2810036775077811202
+    second: tic_tac_toe_logo_22
+  - first:
+      213: 7525782097707934312
+    second: tic_tac_toe_logo_23
+  - first:
+      213: -884797573213529372
+    second: tic_tac_toe_logo_24
+  - first:
+      213: -2155691146729692168
+    second: tic_tac_toe_logo_25
+  - first:
+      213: -700660516533506349
+    second: tic_tac_toe_logo_26
+  - first:
+      213: -1805542337969110006
+    second: tic_tac_toe_logo_27
+  - first:
+      213: 8733603524698553348
+    second: tic_tac_toe_logo_28
+  - first:
+      213: 5830056595020800864
+    second: tic_tac_toe_logo_29
+  - first:
+      213: -1147879175607710442
+    second: tic_tac_toe_logo_30
+  - first:
+      213: -5759764337123555234
+    second: tic_tac_toe_logo_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tic_tac_toe_logo_0
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 639
+        width: 155
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb804c2fad5668530800000000000000
+      internalID: 3856882121939617982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tic_tac_toe_logo_1
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 718
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1701e88a7fe697160800000000000000
+      internalID: 7023767103824859249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tic_tac_toe_logo_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 719
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b02adebaadc61d420800000000000000
+      internalID: 2653021341941080587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tic_tac_toe_logo_3
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 726
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27ca0740ecd44360800000000000000
+      internalID: 7153084963993863978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tic_tac_toe_logo_4
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 670
+        width: 59
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148ec5d45aa1f5e50800000000000000
+      internalID: 6800183259622598721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tic_tac_toe_logo_5
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 705
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd5bc83402d42e70800000000000000
+      internalID: 9089620863515057617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tic_tac_toe_logo_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 677
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669cfe0d750c38280800000000000000
+      internalID: -9042172143429760666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tic_tac_toe_logo_7
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 693
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29bfcaf301c0a7110800000000000000
+      internalID: 1259332309730786194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tic_tac_toe_logo_8
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 692
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3ca5275f0b4cf80800000000000000
+      internalID: -8087144462618541100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tic_tac_toe_logo_9
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 665
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b0578bd4970a9b0800000000000000
+      internalID: -5070919805705057477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tic_tac_toe_logo_10
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 661
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c2721db88ea8130800000000000000
+      internalID: 3569921341851643019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tic_tac_toe_logo_11
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 490
+        width: 73
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fdb2e5a423e29530800000000000000
+      internalID: 3860397577151364592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tic_tac_toe_logo_12
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 663
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e43447ec328c1a0800000000000000
+      internalID: -6789137068640219607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tic_tac_toe_logo_13
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 667
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f791ccced9c864500800000000000000
+      internalID: 380145828469938559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tic_tac_toe_logo_14
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 633
+        width: 21
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f57f44e16bc2320800000000000000
+      internalID: 2534600931425083228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tic_tac_toe_logo_15
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 653
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0165b41ae456cb2f0800000000000000
+      internalID: -955777632521464304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tic_tac_toe_logo_16
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 652
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e97d9d240223a0c0800000000000000
+      internalID: -4565768195883042333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tic_tac_toe_logo_17
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 645
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd716f65c361f270800000000000000
+      internalID: 8282510889339420151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tic_tac_toe_logo_18
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 538
+        width: 73
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d2b97c507cb4db0800000000000000
+      internalID: -4806529349650272892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tic_tac_toe_logo_19
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 633
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d7af3e937063c80800000000000000
+      internalID: -8343473314437890675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tic_tac_toe_logo_20
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 592
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c3bd902a76adbe0800000000000000
+      internalID: -1451733984225837936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tic_tac_toe_logo_21
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 214
+        width: 422
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e26e13176294e80800000000000000
+      internalID: -8193975779413578170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tic_tac_toe_logo_22
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 564
+        width: 17
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efbe3b7f07eb009d0800000000000000
+      internalID: -2810036775077811202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tic_tac_toe_logo_23
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 120
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86220eec1f2f07860800000000000000
+      internalID: 7525782097707934312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tic_tac_toe_logo_24
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 122
+        width: 18
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eada768b4198b3f0800000000000000
+      internalID: -884797573213529372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tic_tac_toe_logo_25
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 122
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3e8b9c2527512e0800000000000000
+      internalID: -2155691146729692168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tic_tac_toe_logo_26
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 120
+        width: 57
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dee0e3f8f0c646f0800000000000000
+      internalID: -700660516533506349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tic_tac_toe_logo_27
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 120
+        width: 57
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a044c6e4fcc61f6e0800000000000000
+      internalID: -1805542337969110006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tic_tac_toe_logo_28
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 122
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40cb1c2122ef33970800000000000000
+      internalID: 8733603524698553348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tic_tac_toe_logo_29
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 120
+        width: 57
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06363ae859588e050800000000000000
+      internalID: 5830056595020800864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tic_tac_toe_logo_30
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 122
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d85d4b8f9e110f0800000000000000
+      internalID: -1147879175607710442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tic_tac_toe_logo_31
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 120
+        width: 47
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5889c71ad43110b0800000000000000
+      internalID: -5759764337123555234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tic_tac_toe_logo_0: 3856882121939617982
+      tic_tac_toe_logo_1: 7023767103824859249
+      tic_tac_toe_logo_10: 3569921341851643019
+      tic_tac_toe_logo_11: 3860397577151364592
+      tic_tac_toe_logo_12: -6789137068640219607
+      tic_tac_toe_logo_13: 380145828469938559
+      tic_tac_toe_logo_14: 2534600931425083228
+      tic_tac_toe_logo_15: -955777632521464304
+      tic_tac_toe_logo_16: -4565768195883042333
+      tic_tac_toe_logo_17: 8282510889339420151
+      tic_tac_toe_logo_18: -4806529349650272892
+      tic_tac_toe_logo_19: -8343473314437890675
+      tic_tac_toe_logo_2: 2653021341941080587
+      tic_tac_toe_logo_20: -1451733984225837936
+      tic_tac_toe_logo_21: -8193975779413578170
+      tic_tac_toe_logo_22: -2810036775077811202
+      tic_tac_toe_logo_23: 7525782097707934312
+      tic_tac_toe_logo_24: -884797573213529372
+      tic_tac_toe_logo_25: -2155691146729692168
+      tic_tac_toe_logo_26: -700660516533506349
+      tic_tac_toe_logo_27: -1805542337969110006
+      tic_tac_toe_logo_28: 8733603524698553348
+      tic_tac_toe_logo_29: 5830056595020800864
+      tic_tac_toe_logo_3: 7153084963993863978
+      tic_tac_toe_logo_30: -1147879175607710442
+      tic_tac_toe_logo_31: -5759764337123555234
+      tic_tac_toe_logo_4: 6800183259622598721
+      tic_tac_toe_logo_5: 9089620863515057617
+      tic_tac_toe_logo_6: -9042172143429760666
+      tic_tac_toe_logo_7: 1259332309730786194
+      tic_tac_toe_logo_8: -8087144462618541100
+      tic_tac_toe_logo_9: -5070919805705057477
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

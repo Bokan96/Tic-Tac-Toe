@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d890ae943138744e99ecaad69e7e4f7, type: 3}
+  m_Name: ChalkTheme
+  m_EditorClassIdentifier: Assembly-CSharp::TicTacToe.Data.ThemeData
+  themeName: Chalk
+  xSprite: {fileID: -8366067564511975507, guid: cd213579887d6784291fc23b2a3967b7, type: 3}
+  oSprite: {fileID: 2617948305880668496, guid: b8690c6da6ba0ad4499c7f0c64b895a6, type: 3}
+  boardGridSprite: {fileID: -8143497581984167401, guid: f4368fe9acab8ba409afe719afe7d4fb, type: 3}
+  strikeLineSprite: {fileID: -6506312191383424122, guid: 0e1952adbd903424b9d6b183e14a37a8, type: 3}
+  boardBackgroundColor: {r: 0.9245283, g: 0.9114454, b: 0.9114454, a: 1}
+  player1Color: {r: 1, g: 0, b: 0, a: 1}
+  player2Color: {r: 0, g: 0.33300006, b: 1, a: 1}
+  gridColor: {r: 0, g: 0, b: 0, a: 1}
